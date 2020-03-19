@@ -14,10 +14,6 @@ Finally, the usage of these drugs is somewhat common among computer scientist as
 
 This page in not promoting the use of any illegal substance, nor encourages anyone to try them. It is merely to spread information about them and potentially reduce harm. Be aware that the purchase of any of these substances might be illegal in your country. 
 
-## Table of Content 
-
-TODO 
-
 ## Books 
 
 - [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind). by Michael Pollan
