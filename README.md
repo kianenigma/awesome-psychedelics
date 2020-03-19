@@ -1,6 +1,6 @@
 # Awesome-psychedelics ☯️ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources about the emerging renaissance of psychedelics drugs and their potential benefits.
+A curated list of resources about the emerging renaissance of psychedelic drugs and their potential benefits.
 
 ## Intro 
 
