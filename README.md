@@ -28,7 +28,14 @@ TODO
 
 - [DOSED - It’s Not Magic, It’s Medicine](https://www.dosedmovie.com/)
 - [Revealing the Mind: The Promise of Psychedelics - YouTube](https://www.youtube.com/watch?v=Fi66wFfOC-4)
+- [Michael Pollan: “How to Change Your Mind” | Talks at Google - YouTube](https://www.youtube.com/watch?v=KuhmZSFvhL0)
 - [The Science of Psychedelics - with Michael Pollan - YouTube](https://www.youtube.com/watch?v=LcAj1oxMT9U)
+- [Psychedelics: Past, present and future | Mark Haden | TEDxEastVan - YouTube](https://www.youtube.com/watch?v=JI1dwVsPw2E)
+- [Consciousness and psychedelics | Peter Sjostedt-H | TEDxTruro - YouTube](https://www.youtube.com/watch?v=tV8PSevhd_M)
+- [The future of psychedelic-assisted psychotherapy | Rick Doblin - YouTube](https://www.youtube.com/watch?v=Q9XD8yRPxc8)
+- [How LSD and shrooms could help treat anxiety, addiction and depression - YouTube](https://www.youtube.com/watch?v=b5i0aY_rUZU)
+- [Psychedelics: effects on the human brain and physiology | Simeon Keremedchiev | TEDxVarna - YouTube](https://www.youtube.com/watch?v=FyAgx_tzh80&t=674s)
+- [Michael Pollan - Psychedelics and How to Change Your Mind | Bioneers - YouTube](https://www.youtube.com/watch?v=5DrM90dg5t4&t=43s)
 
 
 ## Papers 
