@@ -33,7 +33,9 @@ This page in not promoting the use of any illegal substance, nor encourages anyo
 - [Psychedelics: effects on the human brain and physiology | Simeon Keremedchiev | TEDxVarna - YouTube](https://www.youtube.com/watch?v=FyAgx_tzh80&t=674s)
 - [Michael Pollan - Psychedelics and How to Change Your Mind | Bioneers - YouTube](https://www.youtube.com/watch?v=5DrM90dg5t4&t=43s)
 
+## Microdosing 
 
+- [(Phase one finished)Self-blinding microdosing study](https://selfblinding-microdose.org/) 
 ## Papers 
 
 - [Psychological and Cardiovascular Effects and Short-Term Sequelae of MDMA (“Ecstasy”) in MDMA-Naı̈ve Healthy Volunteers - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0893133X9800013X)
