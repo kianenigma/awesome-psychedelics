@@ -1,18 +1,18 @@
-# Awesome-psychedelics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-psychedelics ☯️ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources about the emerging renaissance of psychedelics drugs and their potential benefits.
 
 ## Intro 
 
-Today, in the midst of the age of inovation, liberality, and new ideas, transaprent education about (hard) drugs is still an unfortunate motto. A an important sub-group of these drugs are _psychedelics_. Psychedelics drugs have been used for centuries, potentially as long as they humans have existed in their modern form. The term psychedelic means "Mind manifastor" in most countries LSD and magic mushrooms are the most common substances being used. Nonetheless, it contains many more substances used by indigenous people all around the globe and even MDMA is considered to be psychedelic-like. 
+Today, in the midst of the age of innovation, liberality, and new ideas, transparent education about (hard) drugs is still an unfortunate taboo. An important sub-group of these hard drugs are _psychedelics_. Psychedelics drugs have been used for centuries, potentially as long as they humans have existed in their modern form. The term psychedelic means "Mind manifestor”. In most regions of the world, LSD and magic mushrooms are the most common substances being used. Nonetheless, the psychedelics group contains many more substances used by indigenous people all around the globe and even MDMA is considered to be psychedelic-like. 
 
-All drugs (including alcohol) come with a tradeoff: desirable feelings against potential side-effects, such as addictivity or a hangover. Psychedelics on the other hand, have been shown in the last few years to have a third property: _healing_ and _self-development_. A new era of research has begun, showing the use of these drugs to effectively cure PTSD, addication to heroin and depression. Moreover, safe controlled usage could potentially lead to a boost in creativity, motivation, and a general sense of conntectedness with the world around us.
+All drugs (including alcohol) come with a tradeoff: desirable feelings against potential side-effects, such as additivity or a hangover. Psychedelics on the other hand, have been shown in the last few years to have a third property: _healing_ and _self-development_ (combined with very little side-effects, such as almost no additivity). A new era of research has begun, showing the use of these drugs to effectively cure PTSD, addiction to heroin, depression and many other mental disorders. Moreover, safe controlled usage could potentially lead to a boost in creativity, motivation, and a general sense of connectedness with the world around us.
 
-Finally, the usage of these drugs is somewhat commen among computer scientiest in the vally. It is only fair to openly speak about it. 
+Finally, the usage of these drugs is somewhat common among computer scientist as well. It is only fair to openly speak about it openly. 
 
 ### Disclaimer 
 
-This page in not promoting the use of any illegal substance, nor encourges anyone to try them. It is merely to spread information about them and potentially reduce harm. 
+This page in not promoting the use of any illegal substance, nor encourages anyone to try them. It is merely to spread information about them and potentially reduce harm. Be aware that the purchase of any of these substances might be illegal in your country. 
 
 ## Table of Content 
 
@@ -40,6 +40,10 @@ TODO
 
 ## Papers 
 
+- [Psychological and Cardiovascular Effects and Short-Term Sequelae of MDMA (“Ecstasy”) in MDMA-Naı̈ve Healthy Volunteers - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0893133X9800013X)
+- [3,4-methylenedioxymethamphetamine (MDMA)-assisted psychotherapy for post-traumatic stress disorder in military veterans, firefighters, and police officers: a randomised, double-blind, dose-response, phase 2 clinical trial - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2215036618301354)
+- [Direct comparison of the acute subjective, emotional, autonomic, and endocrine effects of MDMA, methylphenidate, and modafinil in healthy subjects | SpringerLink](https://link.springer.com/article/10.1007/s00213-017-4650-5)
+
 ## Blogs, Websites and Trip Reports
 
 - [r/Psychedelic Studies](https://www.reddit.com/r/PsychedelicStudies/)
@@ -47,7 +51,14 @@ TODO
 ## Institues and Studies 
 
 - [Multidisciplinary Association for Psychedelic Studies - MAPS](https://maps.org/)
+- [John Hopkins Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/)
+- [Centre for Psychedelic Research | Research groups | Imperial College London](https://www.imperial.ac.uk/psychedelic-research-centre)
 - [Beckley / Maastricht Psychedelic Programme | The Beckley Foundation](https://beckleyfoundation.org/science/collaborations/maastricht-university-netherlands/)
 
 
 ## Safety 
+
+Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). Use a proper scale to dose. Always prepare for a trip. If you are alone, always tell at least one close friend where you are and what you are taking. 
+
+- [Research-backed MDMA (Molly/Ecstasy) education | RollSafe.org😻](https://rollsafe.org/)
+- [Research-backed education for psychedelics | TripSafe.org 👽](https://tripsafe.org/)
