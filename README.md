@@ -45,9 +45,6 @@ This page in not promoting the use of any illegal substance, nor encourages anyo
 - [Michael Pollan - Psychedelics and How to Change Your Mind | Bioneers - YouTube](https://www.youtube.com/watch?v=5DrM90dg5t4&t=43s)
 - [How To Use Psychedelics For Personal Development - YouTube](https://www.youtube.com/watch?v=CuOIECQ5zag)
 
-## Microdosing 
-
-- [(Phase one finished)Self-blinding microdosing study](https://selfblinding-microdose.org/) 
 ## Papers 
 
 - [Psychological and Cardiovascular Effects and Short-Term Sequelae of MDMA (“Ecstasy”) in MDMA-Naı̈ve Healthy Volunteers - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0893133X9800013X)
@@ -65,10 +62,13 @@ This page in not promoting the use of any illegal substance, nor encourages anyo
 - [Centre for Psychedelic Research | Research groups | Imperial College London](https://www.imperial.ac.uk/psychedelic-research-centre)
 - [Beckley / Maastricht Psychedelic Programme | The Beckley Foundation](https://beckleyfoundation.org/science/collaborations/maastricht-university-netherlands/)
 
+#### Studies 
+
+- [(Phase one finished) Self-blinding microdosing study](https://selfblinding-microdose.org/) 
 
 ## Safety 
 
 Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). Use a proper scale to dose. Always prepare for a trip. If you are alone, always tell at least one close friend where you are and what you are taking. 
 
-- [Research-backed MDMA (Molly/Ecstasy) education | RollSafe.org😻](https://rollsafe.org/)
+- [Research-backed MDMA (Molly/Ecstasy) education | RollSafe.org 😻](https://rollsafe.org/)
 - [Research-backed education for psychedelics | TripSafe.org 👽](https://tripsafe.org/)
