@@ -1,4 +1,4 @@
-# Awesome-psychedelics ☯️ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kianenigma/awesome-psychedelics.svg)](https://travis-ci.org/<username>/<project>)
+# Awesome-psychedelics ☯️ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kianenigma/awesome-psychedelics.svg)](https://travis-ci.org/kianenigma/awesome-psychedelics)
 
 
 > “Maybe to be in a garden and feel awe, or wonder, in the presence of an astonishing mystery, is nothing more than a recovery of a misplaced perspective, perhaps the child’s-eye view; maybe we regain it by means of a neurochemical change that disables the filters (of convention, of ego) that prevent us in ordinary hours from seeing what is, like those lovely leaves, staring us in the face.”
