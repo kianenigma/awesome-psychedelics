@@ -27,8 +27,13 @@ This page in not promoting the use of any illegal substance, nor encourages anyo
 
 ## Talks and Documentaries
 
+#### Documentaries
+
 - [DOSED - It’s Not Magic, It’s Medicine](https://www.dosedmovie.com/)
 - [Fantastic Fungi, Official Film Trailer | Moving Art by Louie Schwartzberg](https://fantasticfungi.com/trailer/)
+
+#### Youtube / Talks 
+
 - [Revealing the Mind: The Promise of Psychedelics - YouTube](https://www.youtube.com/watch?v=Fi66wFfOC-4)
 - [Michael Pollan: “How to Change Your Mind” | Talks at Google - YouTube](https://www.youtube.com/watch?v=KuhmZSFvhL0)
 - [The Science of Psychedelics - with Michael Pollan - YouTube](https://www.youtube.com/watch?v=LcAj1oxMT9U)
