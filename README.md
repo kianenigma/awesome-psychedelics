@@ -1,5 +1,8 @@
 # Awesome-psychedelics ☯️ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> “Maybe to be in a garden and feel awe, or wonder, in the presence of an astonishing mystery, is nothing more than a recovery of a misplaced perspective, perhaps the child’s-eye view; maybe we regain it by means of a neurochemical change that disables the filters (of convention, of ego) that prevent us in ordinary hours from seeing what is, like those lovely leaves, staring us in the face.”
+― Michael Pollan
+
 A curated list of resources about the emerging renaissance of psychedelic drugs and their potential benefits.
 
 ## Intro 
@@ -23,6 +26,7 @@ This page in not promoting the use of any illegal substance, nor encourages anyo
 ## Talks and Documentaries
 
 - [DOSED - It’s Not Magic, It’s Medicine](https://www.dosedmovie.com/)
+- [Fantastic Fungi, Official Film Trailer | Moving Art by Louie Schwartzberg](https://fantasticfungi.com/trailer/)
 - [Revealing the Mind: The Promise of Psychedelics - YouTube](https://www.youtube.com/watch?v=Fi66wFfOC-4)
 - [Michael Pollan: “How to Change Your Mind” | Talks at Google - YouTube](https://www.youtube.com/watch?v=KuhmZSFvhL0)
 - [The Science of Psychedelics - with Michael Pollan - YouTube](https://www.youtube.com/watch?v=LcAj1oxMT9U)
