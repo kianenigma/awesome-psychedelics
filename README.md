@@ -15,7 +15,7 @@ In our current (deeply biased) culture, the term drug is tightly coupled with _i
 
 This is a _wrong_, and more importantly, a very *limiting* perspective on these substances. 
 
-Psychedelics on the other hand, have been shown in the last few years to have a different property: _healing_ and _self-development_ (combined with very little side-effects). A new era of research has begun, showing the use of these drugs to effectively cure PTSD, addiction to heroin, depression and many other mental disorders. Moreover, safe controlled usage could potentially lead to a boost in creativity, motivation, and a general sense of connectedness with the world around us. This is fundamentally different, and goes beyond the typical _recreational_ use of any substance. 
+Psychedelics on the other hand, have been shown in the last few years to have a different property: _healing_ and _self-development_, with very little adverse effects, when taken in a _safe_ and controlled _environment_. A new era of research has begun, showing the use of these drugs to effectively cure PTSD, addiction to heroin, depression and many other mental disorders. Moreover, safe controlled usage could potentially lead to a boost in creativity, motivation, and a general sense of connectedness with the world around us. This is fundamentally different, and goes beyond the typical _recreational_ use of any substance. 
 
 Finally, the usage of these drugs is somewhat common among computer scientist as well. It is only fair to openly speak about it. 
 
