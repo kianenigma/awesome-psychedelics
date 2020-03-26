@@ -1,11 +1,19 @@
 # awesome-psychedelics ☯️ 🍄🚲
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/kianenigma/awesome-psychedelics.svg)](https://travis-ci.com/kianenigma/awesome-psychedelics)
 
+A curated list of resources about the emerging renaissance of psychedelic drugs and their potential benefits.
+
+## Elected Quotes 
+
+> "Anyone who has's had one of those experiences, in a country where it is not legal to have them, he's stuck in this position where something really precious and really giving, a great gift to you, is not understood by the culture at large and furthermore puts you and other people at the risk of prosecution.
+> 
+> And one response to that is to get angry. And to want to fight that. And another response to it is to say: we just have to explain to people what's going on here. And when people understand it, then there will be accommodation, and respect." ― from the movie: Fantastic Fungi
+
 
 > “Maybe to be in a garden and feel awe, or wonder, in the presence of an astonishing mystery, is nothing more than a recovery of a misplaced perspective, perhaps the child’s-eye view; maybe we regain it by means of a neurochemical change that disables the filters (of convention, of ego) that prevent us in ordinary hours from seeing what is, like those lovely leaves, staring us in the face.”
 ― Michael Pollan
 
-A curated list of resources about the emerging renaissance of psychedelic drugs and their potential benefits.
+
 
 ## Intro 
 
