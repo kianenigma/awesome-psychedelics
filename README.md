@@ -43,6 +43,7 @@ This page in not promoting the use of any illegal substance, nor encourages anyo
 
 - [DOSED - It’s Not Magic, It’s Medicine](https://www.dosedmovie.com/)
 - [Fantastic Fungi, Official Film Trailer | Moving Art by Louie Schwartzberg](https://fantasticfungi.com/trailer/)
+- [Reconnect - A Journey with Ayahuasca](https://londonreal.tv/reconnect-the-movie/)
 
 #### Youtube / Talks 
 
