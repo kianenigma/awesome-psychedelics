@@ -74,6 +74,7 @@ This page in not promoting the use of any illegal substance, nor encourages anyo
 - [John Hopkins Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/)
 - [Centre for Psychedelic Research | Research groups | Imperial College London](https://www.imperial.ac.uk/psychedelic-research-centre)
 - [Beckley / Maastricht Psychedelic Programme | The Beckley Foundation](https://beckleyfoundation.org/science/collaborations/maastricht-university-netherlands/)
+- [So You Want to be a Psychedelic Researcher? R. Andrew Sewell, MD Answers. - MAPS](https://maps.org/resources/students/181-so-you-want-to-be-a-psychedelic-researcher)
 
 #### Studies 
 
