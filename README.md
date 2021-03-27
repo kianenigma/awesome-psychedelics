@@ -10,8 +10,9 @@ This list aim to serve as a *unbiased*, *evidence-based* resource about psychede
 
 ## Elected Quotes 
 > "Anyone who has's had one of those experiences, in a country where it is not legal to have them, he's stuck in this position where something really precious and really giving, a great gift to you, is not understood by the culture at large and furthermore puts you and other people at the risk of prosecution.
+> And one response to that is to get angry. And to want to fight that. And another response to it is to say: we just have to explain to people what's going on here. And when people understand it, then there will be accommodation, and respect." 
 > 
-> And one response to that is to get angry. And to want to fight that. And another response to it is to say: we just have to explain to people what's going on here. And when people understand it, then there will be accommodation, and respect." ― from the movie: Fantastic Fungi
+> ― from the movie: Fantastic Fungi
 
 ## Intro 
 In the midst of the age of innovation, liberality, and new ideas, transparent education about (hard) drugs is still an unfortunate taboo. An important sub-group of these hard drugs are _psychedelics_. Psychedelics drugs have been used for centuries, potentially as long as they humans have existed in their modern form. The term psychedelic means "Mind manifestor”. In most regions of the world, [LSD](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide) and [Psilocybin Mushrooms](https://en.wikipedia.org/wiki/Psilocybin) are the most common substances of this group. Nonetheless, it contains many other substances used by indigenous people all around the globe. Even [MDMA](https://en.wikipedia.org/wiki/MDMA) is considered to be psychedelic-like. 
