@@ -1,9 +1,9 @@
-# awesome-psychedelics ☯️ 🍄🚲
+# awesome-psychedelics 🍄 🚲
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/kianenigma/awesome-psychedelics.svg)](https://travis-ci.com/kianenigma/awesome-psychedelics)
 
 The psychedelic forefront has gotten quite cluttered in the last few years. 
 
-- Targeted advertisements show it as the silver-bullet pill that is suddenly going to heal all your problems, boost creativity, productivity, athletic performance, and who knows, your face skin 🤯🤥. 
+- Targeted advertisements show it as the silver-bullet pill that is suddenly going to heal all your problems, boost creativity, productivity, athletic performance, and who knows, your face skin 🤯 🤥. 
 - On the other hand, pseudoscientific healing and mystical rituals are being treated credulously, not taking into account that — with all due respect — of them lack *any* falsifiable and measurable evidence. 
 
 This list aim to serve as a *unbiased*, *evidence-based* resource about psychedelics and their potential benefits. 
