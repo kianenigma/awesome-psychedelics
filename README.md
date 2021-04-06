@@ -37,6 +37,7 @@ Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). U
 ## Books 
 - [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind). by Michael Pollan
 - [The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys](https://www.goodreads.com/book/show/9721527-the-psychedelic-explorer-s-guide). by James Fadiman
+- [The Doors Of Perception](https://maps.org/images/pdf/books/HuxleyA1954TheDoorsOfPerception.pdf). by ALDOUS HUXLEY
 
 ## Papers 
 - [Psychological and Cardiovascular Effects and Short-Term Sequelae of MDMA (“Ecstasy”) in MDMA-Naı̈ve Healthy Volunteers - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0893133X9800013X)
