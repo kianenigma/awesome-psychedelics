@@ -4,9 +4,9 @@
 The psychedelic forefront has gotten quite cluttered in the last few years. 
 
 - Targeted advertisements show it as the silver-bullet pill that is suddenly going to heal all your problems, boost creativity, productivity, athletic performance, and who knows, your face skin 🤯 🤥. 
-- On the other hand, pseudoscientific healing and mystical rituals are being treated credulously, not taking into account that — with all due respect — of them lack *any* falsifiable and measurable evidence. 
+- On the other hand, pseudoscientific healing and mystical rituals are being treated credulously, not taking into account that — with all due respect — most of them lack *any* falsifiable and measurable evidence. 
 
-This list aim to serve as a *unbiased*, *evidence-based* resource about psychedelics and their potential benefits. 
+This list aim to serve as a *unbiased*, *evidence-based* resource about psychedelics and their potential **benefits**. 
 
 ## Elected Quotes 
 > "Anyone who has's had one of those experiences, in a country where it is not legal to have them, he's stuck in this position where something really precious and really giving, a great gift to you, is not understood by the culture at large and furthermore puts you and other people at the risk of prosecution.
