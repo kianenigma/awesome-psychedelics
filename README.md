@@ -76,3 +76,4 @@ Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). U
 
 ## Blogs, Websites and Trip Reports
 - [r/Psychedelic Studies](https://www.reddit.com/r/PsychedelicStudies/)
+- [Smoke Blog](https://smoke.io/)
