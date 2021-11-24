@@ -1,50 +1,50 @@
 # awesome-psychedelics 🍄 🚲
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/kianenigma/awesome-psychedelics.svg)](https://travis-ci.com/kianenigma/awesome-psychedelics)
 
-The psychedelic forefront has gotten quite cluttered in the last few years. 
+The psychedelic forefront has gotten quite cluttered in the last few years.
 
-- Targeted advertisements show it as the silver-bullet pill that is suddenly going to heal all your problems, boost creativity, productivity, athletic performance, and who knows, your face skin 🤯 🤥. 
-- On the other hand, pseudoscientific healing and mystical rituals are being treated credulously, not taking into account that — with all due respect — most of them lack *any* falsifiable and measurable evidence. 
+- Targeted advertisements show it as the silver-bullet pill that is suddenly going to heal all your problems, boost creativity, productivity, athletic performance, and who knows, your face skin 🤯 🤥.
+- On the other hand, pseudoscientific healing and mystical rituals are being treated credulously, not taking into account that — with all due respect — most of them lack *any* falsifiable and measurable evidence.
 
-This list aim to serve as a *unbiased*, *evidence-based* resource about psychedelics and their potential **benefits**. 
+This list aim to serve as a *unbiased*, *evidence-based* resource about psychedelics and their potential **benefits**.
 
-## Elected Quotes 
+## Elected Quotes
 > "Anyone who has's had one of those experiences, in a country where it is not legal to have them, he's stuck in this position where something really precious and really giving, a great gift to you, is not understood by the culture at large and furthermore puts you and other people at the risk of prosecution.
-> And one response to that is to get angry. And to want to fight that. And another response to it is to say: we just have to explain to people what's going on here. And when people understand it, then there will be accommodation, and respect." 
-> 
+> And one response to that is to get angry. And to want to fight that. And another response to it is to say: we just have to explain to people what's going on here. And when people understand it, then there will be accommodation, and respect."
+>
 > ― from the movie: Fantastic Fungi
 
-## Intro 
-In the midst of the age of innovation, liberality, and new ideas, transparent education about (hard) drugs is still an unfortunate taboo. An important sub-group of these hard drugs are _psychedelics_. Psychedelics drugs have been used for centuries, potentially as long as they humans have existed in their modern form. The term psychedelic means "Mind manifestor”. In most regions of the world, [LSD](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide) and [Psilocybin Mushrooms](https://en.wikipedia.org/wiki/Psilocybin) are the most common substances of this group. Nonetheless, it contains many other substances used by indigenous people all around the globe. Even [MDMA](https://en.wikipedia.org/wiki/MDMA) is considered to be psychedelic-like. 
+## Intro
+In the midst of the age of innovation, liberality, and new ideas, transparent education about (hard) drugs is still an unfortunate taboo. An important sub-group of these hard drugs are _psychedelics_. Psychedelics drugs have been used for centuries, potentially as long as they humans have existed in their modern form. The term psychedelic means "Mind manifestor”. In most regions of the world, [LSD](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide) and [Psilocybin Mushrooms](https://en.wikipedia.org/wiki/Psilocybin) are the most common substances of this group. Nonetheless, it contains many other substances used by indigenous people all around the globe. Even [MDMA](https://en.wikipedia.org/wiki/MDMA) is considered to be psychedelic-like.
 
-In our current (deeply biased) culture, the term drug is tightly coupled with _irresponsible, recreational_ use. In this Jargon, the usage of a substance is a balance between (short-lived) desirable feelings (e.g. _high_, _drunk_) and adverse side effects (e.g. _addictiveness_, _hangover_). We happen to consider alcohol's adverse effects to be negligible (which is [very controversial](https://www.youtube.com/watch?v=qS6LoRYUdhw) by itself), so it is okay to use, while we think very differently about LSD, and it is illegal in most countries. 
+In our current (deeply biased) culture, the term drug is tightly coupled with _irresponsible, recreational_ use. In this Jargon, the usage of a substance is a balance between (short-lived) desirable feelings (e.g. _high_, _drunk_) and adverse side effects (e.g. _addictiveness_, _hangover_). We happen to consider alcohol's adverse effects to be negligible (which is [very controversial](https://www.youtube.com/watch?v=qS6LoRYUdhw) by itself), so it is okay to use, while we think very differently about LSD, and it is illegal in most countries.
 
-This is a _wrong_, and more importantly, a very *limiting* perspective on these substances. 
+This is a _wrong_, and more importantly, a very *limiting* perspective on these substances.
 
-Psychedelics on the other hand, have been shown in the last few years to have a different property: _healing_ and _self-development_, with very little adverse effects, when taken in a _safe_ and _controlled_ environment. A new era of research has begun, showing the use of these drugs to effectively cure PTSD, addiction to heroin, depression and many other mental disorders. Moreover, safe controlled usage could potentially lead to a boost in creativity, motivation, and a general sense of connectedness with the world around us. This is fundamentally different, and goes beyond the typical _recreational_ use of any substance. 
+Psychedelics on the other hand, have been shown in the last few years to have a different property: _healing_ and _self-development_, with very little adverse effects, when taken in a _safe_ and _controlled_ environment. A new era of research has begun, showing the use of these drugs to effectively cure PTSD, addiction to heroin, depression and many other mental disorders. Moreover, safe controlled usage could potentially lead to a boost in creativity, motivation, and a general sense of connectedness with the world around us. This is fundamentally different, and goes beyond the typical _recreational_ use of any substance.
 
-Finally, the usage of these drugs is somewhat common among computer scientist as well. It is only fair to openly speak about it. 
+Finally, the usage of these drugs is somewhat common among computer scientist as well. It is only fair to openly speak about it.
 
-### Disclaimer 
-This page in not promoting the use of any illegal substance, nor encourages anyone to try them. It is merely to spread information about them and potentially reduce harm. Be aware that the purchase of any of these substances might be illegal in your country. 
+### Disclaimer
+This page in not promoting the use of any illegal substance, nor encourages anyone to try them. It is merely to spread information about them and potentially reduce harm. Be aware that the purchase of any of these substances might be illegal in your country.
 
-## Safety 
-Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). Use a proper scale to dose. Always prepare for a trip. If you are alone, always tell at least one close friend where you are and what you are taking. 
+## Safety
+Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). Use a proper scale to dose. Always prepare for a trip. If you are alone, always tell at least one close friend where you are and what you are taking.
 - [Research-backed MDMA (Molly/Ecstasy) education | RollSafe.org 😻](https://rollsafe.org/)
 - [Research-backed education for psychedelics | TripSafe.org 👽](https://tripsafe.org/)
 
 
-## Books 
+## Books
 - [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind). by Michael Pollan
 - [The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys](https://www.goodreads.com/book/show/9721527-the-psychedelic-explorer-s-guide). by James Fadiman
 
-## Papers 
+## Papers
 - [Psychological and Cardiovascular Effects and Short-Term Sequelae of MDMA (“Ecstasy”) in MDMA-Naı̈ve Healthy Volunteers - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0893133X9800013X)
 - [3,4-methylenedioxymethamphetamine (MDMA)-assisted psychotherapy for post-traumatic stress disorder in military veterans, firefighters, and police officers: a randomised, double-blind, dose-response, phase 2 clinical trial - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2215036618301354)
 - [Direct comparison of the acute subjective, emotional, autonomic, and endocrine effects of MDMA, methylphenidate, and modafinil in healthy subjects | SpringerLink](https://link.springer.com/article/10.1007/s00213-017-4650-5)
 - [Self-blinding citizen science to explore psychedelic microdosing | eLife](https://elifesciences.org/articles/62878)
 
-## Institutes and Universities  
+## Institutes and Universities
 - [Multidisciplinary Association for Psychedelic Studies - MAPS](https://maps.org/)
 - [John Hopkins Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/)
 - [Centre for Psychedelic Research | Research groups | Imperial College London](https://www.imperial.ac.uk/psychedelic-research-centre)
@@ -57,7 +57,7 @@ Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). U
 - [Fantastic Fungi, Official Film Trailer | Moving Art by Louie Schwartzberg](https://fantasticfungi.com/trailer/)
 - [Reconnect - A Journey with Ayahuasca](https://londonreal.tv/reconnect-the-movie/)
 
-#### Youtube / Talks 
+#### Youtube / Talks
 - [Revealing the Mind: The Promise of Psychedelics - YouTube](https://www.youtube.com/watch?v=Fi66wFfOC-4)
 - [Michael Pollan: “How to Change Your Mind” | Talks at Google - YouTube](https://www.youtube.com/watch?v=KuhmZSFvhL0)
 - [The Science of Psychedelics - with Michael Pollan - YouTube](https://www.youtube.com/watch?v=LcAj1oxMT9U)
