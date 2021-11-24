@@ -3,7 +3,6 @@
 [![Build
 Status](https://travis-ci.com/kianenigma/awesome-psychedelics.svg)](https://travis-ci.com/kianenigma/awesome-psychedelics)
 
-
 The psychedelic forefront has gotten quite cluttered in the last few years.
 
 - Targeted advertisements show it as the silver-bullet pill that is suddenly going to heal all your problems, boost creativity, productivity, athletic performance, and who knows, your face skin 🤯 🤥.
