@@ -16,6 +16,7 @@ This list aim to serve as a *unbiased*, *evidence-based* resource about psychede
 >
 > ― from the movie: Fantastic Fungi
 
+
 ## Intro
 In the midst of the age of innovation, liberality, and new ideas, transparent education about (hard) drugs is still an unfortunate taboo. An important sub-group of these hard drugs are _psychedelics_. Psychedelics drugs have been used for centuries, potentially as long as they humans have existed in their modern form. The term psychedelic means "Mind manifestor”. In most regions of the world, [LSD](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide) and [Psilocybin Mushrooms](https://en.wikipedia.org/wiki/Psilocybin) are the most common substances of this group. Nonetheless, it contains many other substances used by indigenous people all around the globe. Even [MDMA](https://en.wikipedia.org/wiki/MDMA) is considered to be psychedelic-like.
 
