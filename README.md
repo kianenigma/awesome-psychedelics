@@ -10,7 +10,8 @@ The psychedelic forefront has gotten quite cluttered in the last few years.
 
 This list aim to serve as a *unbiased*, *evidence-based* resource about psychedelics and their potential **benefits**.
 
-## Elected Quotes
+--- 
+
 > "Anyone who has's had one of those experiences, in a country where it is not legal to have them, he's stuck in this position where something really precious and really giving, a great gift to you, is not understood by the culture at large and furthermore puts you and other people at the risk of prosecution.
 > And one response to that is to get angry. And to want to fight that. And another response to it is to say: we just have to explain to people what's going on here. And when people understand it, then there will be accommodation, and respect."
 >
@@ -35,6 +36,7 @@ This page in not promoting the use of any illegal substance, nor encourages anyo
 Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). Use a proper scale to dose. Always prepare for a trip. If you are alone, always tell at least one close friend where you are and what you are taking.
 - [Research-backed MDMA (Molly/Ecstasy) education | RollSafe.org 😻](https://rollsafe.org/)
 - [Research-backed education for psychedelics | TripSafe.org 👽](https://tripsafe.org/)
+- [LSD Tolerance Calculator](https://lsdtolerancecalculator.github.io/).
 
 
 ## Books
