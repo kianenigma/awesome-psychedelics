@@ -40,12 +40,23 @@ Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). U
 ## Books
 - [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind). by Michael Pollan
 - [The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys](https://www.goodreads.com/book/show/9721527-the-psychedelic-explorer-s-guide). by James Fadiman
+- [The Little Book Psychedelic Substances](https://www.scribd.com/document/517868090/The-Little-Book-Psychedelic-Substances).
 
 ## Papers
+
 - [Psychological and Cardiovascular Effects and Short-Term Sequelae of MDMA (“Ecstasy”) in MDMA-Naı̈ve Healthy Volunteers - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0893133X9800013X)
 - [3,4-methylenedioxymethamphetamine (MDMA)-assisted psychotherapy for post-traumatic stress disorder in military veterans, firefighters, and police officers: a randomised, double-blind, dose-response, phase 2 clinical trial - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S2215036618301354)
 - [Direct comparison of the acute subjective, emotional, autonomic, and endocrine effects of MDMA, methylphenidate, and modafinil in healthy subjects | SpringerLink](https://link.springer.com/article/10.1007/s00213-017-4650-5)
 - [Self-blinding citizen science to explore psychedelic microdosing | eLife](https://elifesciences.org/articles/62878)
+
+## Labs 
+
+- [Rarechems](https://rarechems.com/).
+- [Eurochems](https://eurochems.net/).
+
+## People
+
+- [Alexander Shulgin](https://en.wikipedia.org/wiki/Alexander_Shulgin).
 
 ## Institutes and Universities
 - [Multidisciplinary Association for Psychedelic Studies - MAPS](https://maps.org/)
@@ -55,6 +66,7 @@ Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). U
 - [So You Want to be a Psychedelic Researcher? R. Andrew Sewell, MD Answers. - MAPS](https://maps.org/resources/students/181-so-you-want-to-be-a-psychedelic-researcher)
 
 ## Media
+
 #### Documentaries
 - [DOSED - It’s Not Magic, It’s Medicine](https://www.dosedmovie.com/)
 - [Fantastic Fungi, Official Film Trailer | Moving Art by Louie Schwartzberg](https://fantasticfungi.com/trailer/)
@@ -73,9 +85,10 @@ Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). U
 - [How To Use Psychedelics For Personal Development - YouTube](https://www.youtube.com/watch?v=CuOIECQ5zag)
 
 #### Podcasts
+
 - [#1615 - Hamilton Morris - The Joe Rogan Experience | Podcast on Spotify](https://open.spotify.com/episode/2sv8XJd7hekqx3EOVDmdex?si=-CMbFPEXRYGckZSe6_RVpg&nd=1)
 - [#1121 - Michael Pollan - The Joe Rogan Experience | Podcast on Spotify](https://open.spotify.com/episode/1ICSexGz1pF7qrHSPnD1hD)
 - [#1035 - Paul Stamets - The Joe Rogan Experience | Podcast on Spotify](https://open.spotify.com/episode/4DLfLVgqD4NFZXwE9RuLso)
 
-## Blogs, Websites and Trip Reports
+## Anecdotes, Trip Reports
 - [r/Psychedelic Studies](https://www.reddit.com/r/PsychedelicStudies/)
