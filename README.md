@@ -52,7 +52,6 @@ Safety comes first, always. Use [reagent kits](https://www.reagent-tests.uk/). U
 
 ## Labs 
 
-- [Rarechems](https://rarechems.com/).
 - [Eurochems](https://eurochems.net/).
 
 ## People
